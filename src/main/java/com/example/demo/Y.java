@@ -8,5 +8,5 @@ public class Y {
 
     void test1(){}
 
-    void test2(){}
+    void test28(){}
 }
